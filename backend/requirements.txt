@@ -1,0 +1,7 @@
+wheel>=0.44.0
+Django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.3
+requests>=2.31
+PyJWT>=2.8
+python-keycloak>=3.9
